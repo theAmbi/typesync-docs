@@ -38,4 +38,4 @@ These terms apply for as long as you use the plugin. You may stop using and unin
 
 ## 9. Contact
 
-Questions about these terms: **[photoshopwithgolden@gmail.com]**
+Questions about these terms: **[photoshopwithgolden@gmail.com](mailto:photoshopwithgolden@gmail.com)**

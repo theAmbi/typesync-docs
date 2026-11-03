@@ -23,4 +23,4 @@ If a future version of TypeSync ever changes how it handles data, this policy wi
 
 ## Contact
 
-If you have any questions about this policy, contact us at: **[photoshopwithgolden@gmail.com]**
+If you have any questions about this policy, contact us at: **[photoshopwithgolden@gmail.com](mailto:photoshopwithgolden@gmail.com)**
